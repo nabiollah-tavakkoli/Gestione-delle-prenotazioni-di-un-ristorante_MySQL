@@ -1,0 +1,10 @@
+************************************
+***   Dati per tabella Persone   ***
+************************************
+
+ABC1,Sara,Verdi
+ABC2,Alice,Rossi
+ABC3,Marta,Neri
+XYZ1,Paolo,Rossi
+XYZ2,Marco,Bianchi
+XYZ3,Paola,Blu
